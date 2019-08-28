@@ -12,3 +12,5 @@ Controls:
 * B -> start game and after shooting
 * joystick -> move
 * A -> jump and after you die reset the game
+
+P.S. the .apk file is in Spider Showdown folder. :)
